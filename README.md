@@ -1,8 +1,8 @@
-# soxr
+# soxr 1.0.0
 
 A toolbox to compress WAV files to FLAC using the standardized Cornell's Center for Conservation Bioacoustics' naming format. The code runs in parallel.
 
-*Tested on Ubuntu 16 and 18; should work on macOS*
+*Tested on Ubuntu 16, 18, 22; should work on macOS*
 
 ## Requirements: 
 
